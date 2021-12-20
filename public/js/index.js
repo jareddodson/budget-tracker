@@ -142,6 +142,8 @@ function sendTransaction(isAdding) {
     nameEl.value = "";
     amountEl.value = "";
   });
+
+  
 }
 
 document.querySelector("#add-btn").onclick = function() {
